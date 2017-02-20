@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>USER-KOMPUTER</Machine>
+    <WindowsUser>user</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>23425C10BD233D27D6E20DA55A8EE6E51779E609D785E76FD12C3E2D18DEDA59</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cd3626de-37b5-46d6-8ff6-0e1b918f8669_1.0.0.0_neutral__yzekw4x8qxe1g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cd3626de-37b5-46d6-8ff6-0e1b918f8669_yzekw4x8qxe1g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cd3626de-37b5-46d6-8ff6-0e1b918f8669</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=user</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ratuj ludzi\ratuj ludzi\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-15T21:02:28.785</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ratuj ludzi\ratuj ludzi\bin\Debug\ratuj ludzi.exe">
+      <PackagePath>ratuj ludzi.exe</PackagePath>
+      <Modified>2017-02-20T21:27:16.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ratuj ludzi\ratuj ludzi\bin\Debug\ratuj ludzi.pdb">
+      <PackagePath>ratuj ludzi.pdb</PackagePath>
+      <Modified>2017-02-20T21:27:16.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ratuj ludzi\ratuj ludzi\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ratuj ludzi\ratuj ludzi\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ratuj ludzi\ratuj ludzi\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-20T21:34:53.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ratuj ludzi\ratuj ludzi\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ratuj ludzi\ratuj ludzi\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2017-02-13T21:59:58.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ratuj ludzi\ratuj ludzi\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2017-02-13T21:46:49.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ratuj ludzi\ratuj ludzi\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2017-02-20T21:27:11.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ratuj ludzi\ratuj ludzi\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\Documents\Visual Studio 2012\Projects\ratuj ludzi\ratuj ludzi\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-02-13T22:01:22.328</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

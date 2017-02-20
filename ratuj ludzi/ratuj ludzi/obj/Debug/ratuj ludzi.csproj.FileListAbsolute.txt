@@ -1,0 +1,27 @@
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\bin\Debug\ratuj ludzi.exe
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\bin\Debug\ratuj ludzi.pdb
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\bin\Debug\resources.pri
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\bin\Debug\AppxManifest.xml
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\bin\Debug\ratuj ludzi.build.appxrecipe
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\MainPage.g.cs
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\Common\StandardStyles.g.cs
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\XamlTypeInfo.g.cs
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\App.xaml
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\MainPage.xaml
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\Common\StandardStyles.xaml
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\ratuj ludzi.exe
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\ratuj ludzi.pdb
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\priconfig.xml.intermediate
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\layout.resfiles.intermediate
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\resources.resfiles.intermediate
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\pri.resfiles.intermediate
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\priconfig.xml
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\layout.resfiles
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\resources.resfiles
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\pri.resfiles
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\LanguageQualifiers.txt
+c:\users\user\documents\visual studio 2012\Projects\ratuj ludzi\ratuj ludzi\obj\Debug\ProjectArchitectures.txt
