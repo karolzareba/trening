@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Coś błoskotliwego\Coś błoskotliwego\bin\Debug\Coś błoskotliwego.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Coś błoskotliwego\Coś błoskotliwego\bin\Debug\Coś błoskotliwego.exe
+c:\users\user\documents\visual studio 2015\Projects\Coś błoskotliwego\Coś błoskotliwego\bin\Debug\Coś błoskotliwego.pdb
+c:\users\user\documents\visual studio 2015\Projects\Coś błoskotliwego\Coś błoskotliwego\obj\Debug\Coś błoskotliwego.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Coś błoskotliwego\Coś błoskotliwego\obj\Debug\Coś_błoskotliwego.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Coś błoskotliwego\Coś błoskotliwego\obj\Debug\Coś_błoskotliwego.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Coś błoskotliwego\Coś błoskotliwego\obj\Debug\Coś błoskotliwego.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Coś błoskotliwego\Coś błoskotliwego\obj\Debug\Coś błoskotliwego.exe
+c:\users\user\documents\visual studio 2015\Projects\Coś błoskotliwego\Coś błoskotliwego\obj\Debug\Coś błoskotliwego.pdb
