@@ -34,8 +34,8 @@ namespace Kalkulator_zwrotów_kosztów_podróży_służbowej
 
             if (startingMileage <= endingMileage)
             {             
-                    milesTraveled = endingMileage -= startingMileage;
-                    amountOwed = milesTraveled *= reimburdeRate;
+                    milesTraveled = endingMileage - startingMileage;
+                    amountOwed = milesTraveled * reimburdeRate;
                     label4.Text = amountOwed.ToString() + "zł";
                 
             }
@@ -51,7 +51,7 @@ namespace Kalkulator_zwrotów_kosztów_podróży_służbowej
 
         private void button2_Click(object sender, EventArgs e)
         {
-            milesTraveled = endingMileage -= startingMileage;
+            
             MessageBox.Show(milesTraveled + " kilometrów", "Przebyta odległość");
         }
     }
