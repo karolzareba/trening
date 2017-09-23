@@ -7,3 +7,6 @@ c:\users\user\documents\visual studio 2015\Projects\Rozdział 2 - Program 4 new\
 c:\users\user\documents\visual studio 2015\Projects\Rozdział 2 - Program 4 new\Rozdział 2 - Program 4 new\obj\Debug\Rozdział 2 - Program 4 new.csproj.GenerateResource.Cache
 c:\users\user\documents\visual studio 2015\Projects\Rozdział 2 - Program 4 new\Rozdział 2 - Program 4 new\obj\Debug\Rozdział 2 - Program 4 new.exe
 c:\users\user\documents\visual studio 2015\Projects\Rozdział 2 - Program 4 new\Rozdział 2 - Program 4 new\obj\Debug\Rozdział 2 - Program 4 new.pdb
+C:\Users\user\Documents\trening\Rozdział 2 - Program 4 new\Rozdział 2 - Program 4 new\bin\Debug\Rozdział 2 - Program 4 new.exe.config
+C:\Users\user\Documents\trening\Rozdział 2 - Program 4 new\Rozdział 2 - Program 4 new\obj\Debug\Rozdział 2 - Program 4 new.exe
+C:\Users\user\Documents\trening\Rozdział 2 - Program 4 new\Rozdział 2 - Program 4 new\obj\Debug\Rozdział 2 - Program 4 new.pdb
